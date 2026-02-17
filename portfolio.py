@@ -17,9 +17,25 @@ with st.sidebar:
     """)
 
 st.title("Profile")
+st.write(Géomaticien trés passionné par l'analyse spatiale,la carthographie numérique et la gestion des bases de données géographiques).
 
 st.subheader("Technicien supérieur en géomatique")
+st.title("Compétences Techniques"))
+st.write ("Logiciels SIG")
+st.markdown(""
 
+ *ArcGis
+ *QGis"")
+st.write("Programation")
+st.markdown(""
+ *Pyton"")
+st.write("Autres Compétences")
+st.markdown("""
+  *Géorérencement
+  *Numérisation carthographique
+  *Télédétection
+  *Production des cartes thématiques
+""")
 
 
 st.title("Projet Academique")
