@@ -27,7 +27,7 @@ st.markdown("""
 
 *Réalisations des cartes thématiques sur QGis et ArcGis
 
-*Collecte de données au massalikul,G15et de colobane,Fass
+*Collecte de données au massalikul,G15et de colobane,Fass,Gueule tapé
 
 *Numérisation d'une base de données
 
@@ -35,10 +35,10 @@ st.markdown("""
 
 st.title("Expériences")
 st.markdown("""
-*ouvrier à l'usine de Gandour:2024-2025
+*ouvrier à l'usine de Gandour:2024-2026
 """)
 
 st.title("Projets personnels")
-st.markdown("""
+st.markdown("""Obtenir mon BTS et intégrer l'armée nationale pour en devenir un cadre
 
 """)
