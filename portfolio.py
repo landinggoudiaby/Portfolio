@@ -27,7 +27,8 @@ st.markdown("""
 """)
 st.write("Programation")
 st.markdown(""
- *Pyton"")
+ *Pyton
+ "")
 st.write("Autres Compétences")
 st.markdown("""
   *Géorérencement
