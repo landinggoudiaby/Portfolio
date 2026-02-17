@@ -26,9 +26,9 @@ st.markdown("""
  *QGis
 """)
 st.write("Programation")
-st.markdown(""
+st.markdown("""
  *Pyton
- "")
+ """)
 st.write("Autres Compétences")
 st.markdown("""
   *Géorérencement
