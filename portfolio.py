@@ -4,7 +4,7 @@ with st.sidebar:
     st.title("INFORMATIONS")
     st.text("Landing GOUDIABY")
     st.text("Tel: 76 302 47 10")
-    st.text("email: landinggoudiaby2032@gmail.com")
+    st.text("Email: landinggoudiaby2032@gmail.com")
 
 
     st.title("EDUCATIONS")
@@ -22,7 +22,6 @@ st.subheader("Technicien supérieur en géomatique")
 st.title("Compétences Techniques")
 st.write ("Logiciels SIG")
 st.markdown(""
-
  *ArcGis
  *QGis"")
 st.write("Programation")
