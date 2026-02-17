@@ -21,9 +21,11 @@ st.write("Géomaticien trés passionné par l'analyse spatiale,la carthographie 
 st.subheader("Technicien supérieur en géomatique")
 st.title("Compétences Techniques")
 st.write ("Logiciels SIG")
-st.markdown(""
+st.markdown("" 
+            
  *ArcGis
- *QGis"")
+ *QGis
+"")
 st.write("Programation")
 st.markdown(""
  *Pyton"")
